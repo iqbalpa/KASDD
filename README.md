@@ -8,3 +8,5 @@ Lab KASDD Semester Genap 2022/2023
 2. Lab 2: Statistics, Matplotlib, Seaborn
 3. Lab 3: Data Preparation, Dimensionality Reduction
 4. Lab 4: Classification and Regression Tree (CART)
+5. Lab 5: Naive Bayes and KNN
+6. Lab 6: Imbalanced Classification
