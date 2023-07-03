@@ -12,3 +12,4 @@ Lab KASDD Semester Genap 2022/2023
 6. Lab 6: Imbalanced Classification
 7. Lab 7: Intro to Linear Models for Regression and Classification
 8. Lab 8: Pengenalan Neural Networks
+9. Lab 9: Clustering
